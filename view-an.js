@@ -1,8 +1,8 @@
 
-	var url_popup = 'https://danorrgangiare.blogspot.com/';
+	var url_popup = 'https://banggiadanpianomoinhat.blogspot.com/';
 
       //<![CDATA[
-	  // var url_ppp = 'https://danorrgangiare.blogspot.com/';
+	  // var url_ppp = 'https://banggiadanpianomoinhat.blogspot.com/';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
